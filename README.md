@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/129955343_385506026048538_124739189904535224_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=aZQoWBJVudMAX8Te32a&_nc_ht=scontent.fdac7-1.fna&oh=00_AT9fIHEzyk-bV3EIDfAGHt-YIc7C-aevwsCs4eg06BVRrQ&oe=63266EF5" alt="Profile Photo"/>
+<img src="https://pbs.twimg.com/profile_banners/1136990570901991424/1607619726/1500x500" alt="Profile Photo"/>
 
 <!-- Main Title -->
 <h1 align="center">Hi 👋, I'm Md Imran Hossain</h1>
